@@ -30,6 +30,15 @@ body {
   justify-content: center;
 }
 
+.dex, .x, .git, .tg {
+  width: 100px;
+  height: auto;
+  border-radius: 0%;
+  display: block;
+  margin: 0 auto;
+}
+
+
 .title {
   font-size: 100px;
   font-weight: bold;

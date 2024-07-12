@@ -10,10 +10,11 @@ import chickenhead7 from '../pictures/chicken7.jpg';
 import chickenhead8 from '../pictures/chicken8.jpg';
 import chickenhead9 from '../pictures/chicken9.jpg';
 import chickenhead10 from '../pictures/chicken10.jpg';
+import chickenhead12 from '../pictures/chicken12.jpg'
 
 const images = [
   chickenhead1, chickenhead2, chickenhead3, chickenhead4, chickenhead5,
-  chickenhead6, chickenhead7, chickenhead8, chickenhead9, chickenhead10
+  chickenhead6, chickenhead7, chickenhead8, chickenhead9, chickenhead10, chickenhead12
 ];
 
 function MemeGallery() {
