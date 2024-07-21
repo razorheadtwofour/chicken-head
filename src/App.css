@@ -1,7 +1,7 @@
 @import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css');
 
 * {
-  background-color: #f1ff6e;
+  animation: flashColors 1s infinite;
 }
 
 @font-face {
@@ -221,4 +221,13 @@ body {
   .fixed-size {
     height: 200px; 
 }
+}
+
+@keyframes flashColors {
+  0% { background-color: red; }
+  20% { background-color: yellow; }
+  40% { background-color: green; }
+  60% { background-color: cyan; }
+  80% { background-color: blue; }
+  100% { background-color: magenta; }
 }

@@ -7,7 +7,7 @@ function Bottom() {
   return (
     <div class="bottom">
         <hr />
-      chicken head | birthed in 2024
+      chicken head | hatched 2024
     </div>
   );
 }
